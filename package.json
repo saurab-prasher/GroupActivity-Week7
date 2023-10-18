@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon groupActivity.js"
+    "start": "node groupActivity.js"
   },
   "author": "",
   "license": "ISC",
